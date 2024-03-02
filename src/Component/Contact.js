@@ -48,6 +48,8 @@ export default function Contact() {
           Main Rd, 1st Phase, J. P. Nagar, Bengaluru, <br />
           Karnataka 560078</h5>
       </div>
+
+      <h1>wgidhk  </h1>
     </>
   )
 }
